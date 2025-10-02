@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 550.0,
+        "y": 0.0,
+        "z": -460.0
+    },
+	"harvestableParticlePrefab": "SquidParticles",
+    "items": [ "plentifulseas.etacystis" ],
+    "startStock": 2,
+    "maxStock": 5,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

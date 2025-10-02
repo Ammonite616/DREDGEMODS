@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "plentifulseas.seed_shrimp.name",
+  "itemDescriptionKey": "plentifulseas.seed_shrimp.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.seed_shrimp",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.2,
+  "value": 5,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "TWISTED_STRAND",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 0.1,
+  "maxSizeCentimeters": 3.2,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 4,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "MANGROVE",
+  "harvestDifficulty": "EASY",
+  "aberrations": ["plentifulseas.bursting_clot"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

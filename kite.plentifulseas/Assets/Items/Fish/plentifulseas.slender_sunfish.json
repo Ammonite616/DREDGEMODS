@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "plentifulseas.slender_sunfish.name",
+  "itemDescriptionKey": "plentifulseas.slender_sunfish.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.slender_sunfish",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 30,
+  "dimensions": [
+    "X  ",
+	"XXX",
+	"X  "
+  ],
+  "zonesFoundIn": "OPEN_OCEAN",
+  "day": true,
+  "night": false,
+  "minSizeCentimeters": 70,
+  "maxSizeCentimeters": 100,
+  "harvestMinigameType": "FISHING_BALL_CATCHER",
+  "perSpotMin": 1,
+  "perSpotMax": 3,
+  "harvestPOICategory": "FISH_LARGE",
+  "harvestableType": "OCEANIC",
+  "harvestDifficulty": "HARD",
+  "aberrations": ["plentifulseas.fragmented_sunfish", "plentifulseas.famished_sunfish"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

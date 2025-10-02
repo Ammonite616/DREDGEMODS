@@ -1,0 +1,39 @@
+﻿{
+  "itemNameKey": "plentifulseas.boops_boops.name",
+  "itemDescriptionKey": "plentifulseas.boops_boops.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.boops_boops",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 0.7,
+  "value": 5.5,
+  "dimensions": [
+    "XX"
+  ],
+  "zonesFoundIn": "THE_MARROWS",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 19,
+  "maxSizeCentimeters": 36,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 3,
+  "perSpotMax": 5,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "EASY",
+  "aberrations": ["plentifulseas.beeps_boops"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

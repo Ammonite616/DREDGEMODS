@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "plentifulseas.swimming_sickle.name",
+  "itemDescriptionKey": "plentifulseas.swimming_sickle.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.swimming_sickle",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 28,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "STELLAR_BASIN",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 12,
+  "maxSizeCentimeters": 18,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 4,
+  "perSpotMax": 7,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "MEDIUM",
+  "isAberration": true,
+  "nonAberrationParent": "plentifulseas.pyramid_butterfly",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

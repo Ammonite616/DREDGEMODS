@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": 208.0,
+        "y": 0.0,
+        "z": -71.0
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "plentifulseas.boops_boops" ],
+    "startStock": 1,
+    "maxStock": 5,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

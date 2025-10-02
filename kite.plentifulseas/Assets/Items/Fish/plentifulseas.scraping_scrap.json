@@ -1,0 +1,41 @@
+﻿{
+  "itemNameKey": "plentifulseas.scraping_scrap.name",
+  "itemDescriptionKey": "plentifulseas.scraping_scrap.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.scraping_scrap",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 0,
+  "value": 30,
+  "dimensions": [
+    "XX"
+  ],
+  "zonesFoundIn": "DEVILS_SPINE",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 1,
+  "maxSizeCentimeters": 4,
+  "harvestMinigameType": "FISHING_RADIAL",
+  "perSpotMin": 3,
+  "perSpotMax": 5,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "CRAB",
+  "harvestDifficulty": "HARD",
+  "isAberration": true,
+  "nonAberrationParent": "plentifulseas.hyolithid",
+  "canBeCaughtByRod": false,
+  "canBeCaughtByPot": true,
+  "canBeCaughtByNet": false
+}
+

@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": -256.0,
+        "y": 0.0,
+        "z": -73.0
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "plentifulseas.blob_sculpin" ],
+    "startStock": 2,
+    "maxStock": 4,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}
