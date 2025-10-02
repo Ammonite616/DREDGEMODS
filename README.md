@@ -6,25 +6,42 @@ Scientific names of species they are based on is also included below. Extinct Cr
 ## **Fish Included:**
 
 ### **Slender Sunfish**
-<br/> _Ranzania laevis_<br/> (2 abberations) 
+_Ranzania laevis_<br/>
+Location: Open ocean between the Gale Cliffs and the Stellar Basin<br/>
+Method: Trawling & Fishing - Oceanic<br/>
+(2 abberations) 
 ### **Pyramid Butterfly**
 _Hemitaurichthys polylepis_<br/>
-<br/> (2 abberations)
+Location: Stellar Basin<br/>
+Method: Trawling & Fishing - Coastal<br/>
+(2 abberations)
 ### **Seed Shrimp**
 Ostracods in the family Candonidae<br/>
-<br/> (1 abberation)
+Location: Twisted Strand<br/>
+Method: Trawling & Fishing - Mangrove<br/>
+(1 abberation)
 ### **Boops boops**
 _Boops boops_<br/>
-<br/> (1 abberation)
+Location: The Marrows<br/>
+Method: Trawling & Fishing - Coastal<br/>
+(1 abberation)
 ### **Blob Sculpin**<br/>
 _Psychrolutes phrictus_<br/>
+Location: Open ocean between the Twisted Strand and the Stellar Basin<br/>
+Method: Trawling & Fishing - Abyssal<br/>
 (1 abberation)
 ### **Hyolithid**<br/>
 † _Haplophrentis carinatus_<br/>
+Location: Devil's Strand<br/>
+Method: Crabbing<br/>
 (1 abberation)
 ### **Etacystis**<br/>
 † _Etacystis communis_<br/>
+Location: Gale Cliffs<br/>
+Method: Trawling & Fishing - Coastal<br/>
 (1 abberation)
 ### **Dickinsonia**<br/>
 Genus: † Dickinsonia<br/>
+Location: Stellar Basin<br/>
+Method: Crabbing<br/>
 (1 abberation)
