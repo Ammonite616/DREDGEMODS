@@ -1,0 +1,10 @@
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\mod_meta.json
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\seasoplenty.dll
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\seasoplenty.pdb
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.dll
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\seasoplenty.pdb

@@ -1,0 +1,27 @@
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\mod_meta.json
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\plentifulseas.dll
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\bin\Debug\plentifulseas.pdb
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.dll
+C:\Program Files (x86)\Steam\steamapps\common\DREDGE\Mods\kite.plentifulseas\obj\Debug\plentifulseas.pdb
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\mod_meta.json
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\HarvestZones\plentifulseas.etacystis_zone1.json
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\Items\Fish\plentifulseas.etacystis.json
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\Items\Fish\plentifulseas.etched_cysts.json
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\Localization\en.json
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\Textures\plentifulseas.etacystis.png
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\Textures\plentifulseas.etched_cysts.png
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\plentifulseas.dll
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\plentifulseas.pdb
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.AssemblyInfo.cs
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.dll
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\obj\Debug\plentifulseas.pdb
+C:\Users\Owner\Documents\dredgemodding\kite.plentifulseas\bin\Debug\Assets\MapMarkers\plentifulseas.mapmarker.json
