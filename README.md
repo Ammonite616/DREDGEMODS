@@ -50,3 +50,8 @@ Genus: † Dickinsonia<br/>
 Location: Stellar Basin<br/>
 Method: Crabbing<br/>
 (1 abberation)
+
+## **TO-DO List:**
+Add even more fish!<br/>
+Add custom paricles to fish.<br/>
+Sort fish in encyclopidea.<br/>
