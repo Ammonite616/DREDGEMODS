@@ -2,7 +2,7 @@
 	"Author": "Kite",
 	"Name": "Plentiful Seas",
 	"ModGUID": "kite.plentifulseas",
-	"Version": "0.0.1",
+	"Version": "1.0.0",
 	"ModAssembly": "plentifulseas.dll",
 	"MinWinchVersion": "0.4.0",
 	"Entrypoint": "plentifulseas.Loader/Initialize"
