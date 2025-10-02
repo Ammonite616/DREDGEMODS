@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "plentifulseas.bursting_clot.name",
+  "itemDescriptionKey": "plentifulseas.bursting_clot.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.bursting_clot",
+  "itemColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "tooltipTextColor": {
+    "r": 136,
+    "g": 0,
+    "b": 76,
+    "a": 255
+  },
+  "squishFactor": 1,
+  "value": 25,
+  "dimensions": [
+    "X"
+  ],
+  "zonesFoundIn": "TWISTED_STRAND",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 0.1,
+  "maxSizeCentimeters": 3.2,
+  "harvestMinigameType": "FISHING_DIAMOND",
+  "perSpotMin": 4,
+  "perSpotMax": 8,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "MANGROVE",
+  "harvestDifficulty": "EASY",
+  "isAberration": true,
+  "nonAberrationParent": "plentifulseas.seed_shrimp",
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

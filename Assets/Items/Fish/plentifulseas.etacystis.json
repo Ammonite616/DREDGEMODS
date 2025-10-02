@@ -1,0 +1,40 @@
+﻿{
+  "itemNameKey": "plentifulseas.etacystis.name",
+  "itemDescriptionKey": "plentifulseas.etacystis.desc",
+  "itemType": "GENERAL",
+  "itemSubtype": "FISH",
+  "sprite": "plentifulseas.etacystis",
+  "itemColor": {
+    "r": 255,
+    "g": 197,
+    "b": 96,
+    "a": 10
+  },
+  "tooltipTextColor": {
+    "r": 122,
+    "g": 96,
+    "b": 71,
+    "a": 255
+  },
+  "squishFactor": 1,
+  "value": 20,
+  "dimensions": [
+    "XX",
+	"XX"
+  ],
+  "zonesFoundIn": "GALE_CLIFFS",
+  "day": true,
+  "night": true,
+  "minSizeCentimeters": 2,
+  "maxSizeCentimeters": 12,
+  "harvestMinigameType": "FISHING_PENDULUM",
+  "perSpotMin": 2,
+  "perSpotMax": 5,
+  "harvestPOICategory": "FISH_SMALL",
+  "harvestableType": "COASTAL",
+  "harvestDifficulty": "MEDIUM",
+  "aberrations": ["plentifulseas.etched_cysts"],
+  "canBeCaughtByRod": true,
+  "canBeCaughtByNet": true
+}
+

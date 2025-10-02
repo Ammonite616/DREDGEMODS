@@ -1,0 +1,13 @@
+{
+    "location": {
+        "x": -533.0,
+        "y": 0.0,
+        "z": -469.0
+    },
+	"harvestableParticlePrefab": "PerchParticles",
+    "items": [ "plentifulseas.pyramid_butterfly" ],
+    "startStock": 3,
+    "maxStock": 7,
+    "doesRestock": true,
+    "usesTimeSpecificStock": false
+}

@@ -1,0 +1,12 @@
+{
+    "location": {
+        "x": -450.0,
+        "y": 0.0,
+        "z": -450.0
+    },
+    "colliderType": "SPHERE",
+    "radius": 100,
+    "harvestableItems": [ "plentifulseas.dickinsonia", "plentifulseas.pyramid_butterfly" ],
+    "day": true,
+    "night": true
+}
