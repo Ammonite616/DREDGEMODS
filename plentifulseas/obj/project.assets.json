@@ -786,11 +786,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\kite.plentifulseas\\plentifulseas.csproj",
+      "projectUniqueName": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.csproj",
       "projectName": "plentifulseas",
-      "projectPath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\kite.plentifulseas\\plentifulseas.csproj",
+      "projectPath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.csproj",
       "packagesPath": "C:\\Users\\Owner\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\kite.plentifulseas\\obj\\",
+      "outputPath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

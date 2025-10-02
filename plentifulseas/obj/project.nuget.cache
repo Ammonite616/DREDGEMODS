@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EmFAnnDuoxw=",
+  "dgSpecHash": "fQD+mP+fqc4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\kite.plentifulseas\\plentifulseas.csproj",
+  "projectFilePath": "C:\\Users\\Owner\\Documents\\dredgemodding\\kite.plentifulseas\\DREDGE_Plentiful_Seas\\plentifulseas\\plentifulseas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Owner\\.nuget\\packages\\dredgegamelibs\\1.5.3\\dredgegamelibs.1.5.3.nupkg.sha512",
     "C:\\Users\\Owner\\.nuget\\packages\\harmonyx\\2.10.1\\harmonyx.2.10.1.nupkg.sha512",
