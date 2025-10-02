@@ -1,3 +1,5 @@
+![Plentiful Seas Logo]([image-url](https://raw.githubusercontent.com/Ammonite616/DREDGEMODS/refs/heads/main/Plentiful_Seas_Logo.png))
+
 # **Plentiful Seas**
 All non-abhorent fish are based on real sea creatures. Each one has at least one abhorrent version.<br/>
 Scientific names of species they are based on is also included below. Extinct Creatures are marked with a "†".<br/>
