@@ -2,7 +2,9 @@
 All non-abhorent fish are based on real sea creatures. Each one has at least one abhorrent version.<br/>
 Scientific names of species they are based on is also included below. Extinct Creatures are marked with a "†".<br/>
 <hr/>
-Fish Included:<br/>
+
+## **Fish Included:**
+
 ### **Slender Sunfish**
 <br/> _Ranzania laevis_<br/> (2 abberations) 
 ### **Pyramid Butterfly**
